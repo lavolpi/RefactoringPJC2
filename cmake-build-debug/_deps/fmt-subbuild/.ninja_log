@@ -1,0 +1,21 @@
+# ninja log v5
+0	40	7206643938671148	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	c13594e4b126f326
+0	40	7206643938671148	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	c13594e4b126f326
+41	8051	7206644018782264	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	dfb144c4c63c8a1b
+41	8051	7206644018782264	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	dfb144c4c63c8a1b
+8051	8141	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f56236eae8fb336c
+8051	8141	0	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	f56236eae8fb336c
+8141	8174	7206644020011973	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	e7a5288b44cea8b5
+8141	8174	7206644020011973	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	e7a5288b44cea8b5
+8174	8208	7206644020352278	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ff3b984a2d2b5d09
+8174	8208	7206644020352278	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ff3b984a2d2b5d09
+8208	8241	7206644020680879	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	99a8805891cf0ab3
+8208	8241	7206644020680879	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	99a8805891cf0ab3
+8241	8274	7206644021017211	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	f24e9c60f121376d
+8241	8274	7206644021017211	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	f24e9c60f121376d
+8274	8308	7206644021343251	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	d60f1716c4401729
+8274	8308	7206644021343251	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	d60f1716c4401729
+8308	8354	7206644021811117	CMakeFiles/fmt-populate-complete	2716aa8f2ea382c8
+8308	8354	7206644021811117	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	2716aa8f2ea382c8
+8308	8354	7206644021811117	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	2716aa8f2ea382c8
+8308	8354	7206644021811117	C:/Users/barto/Desktop/wszystko/Studia/PJC/PJC2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	2716aa8f2ea382c8
